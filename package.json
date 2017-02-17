@@ -6,7 +6,7 @@
     "author": "Matt Whalley <matt@mattwhalley.com>",
     "repository": {
         "type": "git",
-        /*"url": "git@github.com:dnbard/brackets-firewatch.git"*/
+        "url": "git@github.com:mttwhlly/rad.git"
     },
     "license": "MIT",
     "engines": {
