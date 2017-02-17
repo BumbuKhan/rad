@@ -3,12 +3,12 @@
  * ============
  */
 .cm-string {
-    color: rgb(209, 154, 102);
+    color: rgb(127, 193, 244);
 }
 
 .cm-error {
-    background: #F92672;
-    color: #F8F8F2 !important;
+    background: #FF87CF;
+    color: #333333 !important;
 }
 
 .cm-meta,
@@ -17,21 +17,21 @@
 }
 
 .cm-atom{
-    color: rgb(221, 103, 44);
+    color: rgb(237, 170, 109);
 }
 
 .cm-number,
 .cm-link {
-    color: rgb(209, 154, 102);
+    color: rgb(237, 170, 109);
 }
 
 .cm-property{
-    color: rgb(209, 154, 102);
+    color: rgb(237, 170, 109);
 }
 
 .cm-attribute,
 .cm-keyword {
-    color: hsl(18, 89%, 60%);
+    color: hsl(147, 79%, 68%);
 }
 
 .cm-variable{
@@ -40,20 +40,20 @@
 
 .cm-string.cm-property,
 .cm-variable-2 {
-    color: rgb(224, 108, 117);
+    color: rgb(255, 135, 207);
 }
 
 .cm-variable-3,
 .cm-qualifier,
 .cm-builtin {
-    color: hsl( 29, 54%, 61%);
+    color: hsl( 27, 78%, 68%);
 }
 
 .cm-operator{
-    color: hsl(187, 47%, 55%);
+    color: hsl(206, 84%, 72%);
 }
 .cm-tag {
-    color: hsl(355, 65%, 65%);
+    color: hsl(324, 100%, 76%);
 }
 
 .cm-bracket,
@@ -160,7 +160,7 @@ div.CodeMirror-selected {
 .CodeMirror .cm-dk-whitespace-leading-tab::before,
 .CodeMirror .cm-dk-whitespace-trailing-space::before,
 .CodeMirror .cm-dk-whitespace-trailing-tab::before {
-    background-color: #75715E !important;
+    background-color: #777777 !important;
 }
 
 /**
@@ -172,7 +172,7 @@ div.CodeMirror-selected {
 .CodeMirror-foldgutter-blank,
 .CodeMirror-foldgutter-folded,
 .CodeMirror-foldgutter-open {
-    color: #75715E;
+    color: #777777;
 }
 
 .CodeMirror-foldgutter-open::after {

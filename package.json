@@ -1,12 +1,12 @@
 {
-    "name": "firewatch",
+    "name": "Rad",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "author": "Alex Bardanov <dnbard@gmail.com>",
+    "author": "Matt Whalley <matt@mattwhalley.com>",
     "repository": {
         "type": "git",
-        "url": "git@github.com:dnbard/brackets-firewatch.git"
+        /*"url": "git@github.com:dnbard/brackets-firewatch.git"*/
     },
     "license": "MIT",
     "engines": {
@@ -16,6 +16,6 @@
         "file": "theme.css",
         "dark": true
     },
-    "title": "Firewatch",
-    "description": "Dark theme that is based on color scheme from Firewatch game."
+    "title": "Rad",
+    "description": "Dark theme with soft colors inspired by the 90s."
 }
