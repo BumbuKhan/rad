@@ -22,7 +22,7 @@
 
 .cm-number,
 .cm-link {
-    color: rgb(255, 255, 177);
+    color: rgb(111, 237, 168);
 }
 
 .cm-property{
@@ -31,7 +31,7 @@
 
 .cm-attribute,
 .cm-keyword {
-    color: hsl(147, 79%, 68%);
+    color: hsl(60, 100%, 83%);
 }
 
 .cm-variable{
